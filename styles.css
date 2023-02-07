@@ -1,0 +1,14 @@
+div {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+
+  padding: 170px 100px;
+  border-color: gray;
+  border-radius: 25px;
+  border-width: 10px;
+  border-style: solid;
+}
